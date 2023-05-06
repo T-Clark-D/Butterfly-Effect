@@ -12,8 +12,10 @@ This game was developed in C# using Unity as an entry to Mcgill University's 202
 ## But go too high and you'll drift off into space.
 ![image](https://user-images.githubusercontent.com/53094076/236572176-844c5686-1689-4bde-b59d-48fbc88a2dc6.png)
 
-Please enjoy the video I made on the entire process:
-https://youtu.be/VsC9fOw167Q
+## The game froze just as we were about to demo it so I made a video recounting our entire process. 
+
+Please enjoy: https://youtu.be/VsC9fOw167Q
+
 ![image](https://user-images.githubusercontent.com/53094076/236570420-c1e7e0cf-52c7-456d-9fa2-91c48ecf02fe.png)
 
 
