@@ -1,5 +1,6 @@
 # Butterfly Effect
-Developped in C# using Unity. This game was created as an entry to Mcgill's game jam of 2020. The theme was unintended consequences. This was my first ever gamejam. I was the artist for this gamejam but I also had to help/teach my friends Unity before and during the event! 
+This game was developed in C# using Unity as an entry to Mcgill University's 2020 Game Jam. The theme was “unintended consequences.” This was my first ever game jam. I taught my teammates how to code in Unity before and during the event! And, I coded part of the game and created the vector-art sprites (Adobe Illustrator).
+
 
 ## The goal is to flap your wings and get to the other flower.
 ![image](https://user-images.githubusercontent.com/53094076/236571133-b8123a95-fd38-4b6f-bed7-127031d93d3b.png)
